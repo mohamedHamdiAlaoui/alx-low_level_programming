@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
 *this function is an example for using puts function
 */
 int main(void)
